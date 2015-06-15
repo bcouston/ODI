@@ -1,4 +1,4 @@
-#ODI Programming exercise by Ben Couston, programmed in Ruby
+# ODI Programming exercise by Ben Couston, programmed in Ruby
 
 require 'date'
 
