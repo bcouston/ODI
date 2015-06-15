@@ -57,7 +57,7 @@ end
 
 @accounts = []
 
-# split a transaction string into it's meaningful and add new account if account(s) not recognised
+# split a transaction string into it's meaningful components and add new account if account(s) not recognised
 
 def transaction_analyze(transaction)
   trans_details = transaction.split(',')
